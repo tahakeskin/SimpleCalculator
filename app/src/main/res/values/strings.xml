@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleCalculator2</string>
+    <string name="hello_world">Hoşgeldiniz!</string>
+    <string name="button_plus_text">+</string>
+    <string name="button_minus_text">-</string>
+    <string name="button_multiply_text">*</string>
+    <string name="button_divide_text">/</string>
+    <string name="text_view_1">1.sayı:</string>
+    <string name="text_view_2">2.sayı:</string>
+
+</resources>
